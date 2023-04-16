@@ -1,0 +1,11 @@
+I learned and practiced spring-boot about:
+- setting data JPA and H2 in-memory DB
+- how to create entity
+- how to create controller, service, and repository
+- implement loggers
+- implement `lombok` to reduce boilerplate
+- handling exception
+- connect to `mysql`
+- add unit testing using `JUnit` and `Mockito`
+- using `application.yml` instead of `appilcation.properties`
+- customize actuator endpoints
